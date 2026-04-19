@@ -43,7 +43,7 @@ Once the dependencies are ready, follow these steps:
 
 # Clone the repository
 ```bash
-git clone https://github.com/your-username/lineblitz.git
+git clone https://github.com/Cyber-idea12/Lineblitz.git
 
 ``````
 
